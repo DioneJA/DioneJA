@@ -1,4 +1,4 @@
-### Seja bem-vindo! Meu nome é Bruno Alves
+###Meu nome é Bruno Alves, seja bem-vindo! 
 
 - 🌱 Estudando Java 
 
