@@ -1,6 +1,6 @@
 ## Meu nome é Bruno Alves, seja bem-vindo! 
 
-- 🌱 Estudando Java 
+- 🌱 Sempre estudando e evoluindo.
 
 <div align="center">
   <a href="https://github.com/DioneJA">
