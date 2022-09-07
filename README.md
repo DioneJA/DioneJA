@@ -1,4 +1,4 @@
-## Meu nome é Bruno Alves, seja bem-vindo! 
+## Hello welcome. My name is Bruno Dionísio Alves.
 
 - 🌱 Studying Java, Spring Boot e ReactJS
 
