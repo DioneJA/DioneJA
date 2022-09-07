@@ -1,6 +1,6 @@
 ## Meu nome é Bruno Alves, seja bem-vindo! 
 
-- 🌱 Estudando Java, Spring Boot e ReactJS
+- 🌱 Studying Java, Spring Boot e ReactJS
 
 <div align="center">
   <a href="https://github.com/DioneJA">
