@@ -1,6 +1,6 @@
 ## Hello welcome. My name is Bruno Dionísio Alves.
 
-- 🌱 Studying Java, Spring Boot e ReactJS
+- 🌱 Studying Java, Spring Boot and VueJS
 
 <div align="center">
   <a href="https://github.com/DioneJA">
